@@ -20,7 +20,6 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<jdk.version>1.8</jdk.version>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-		<checkstyle.config.location>mycheckstyle.xml</checkstyle.config.location>
 	</properties>
 
 	<scm>
