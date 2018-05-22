@@ -193,7 +193,7 @@
 					<findbugsXmlOutput>true</findbugsXmlOutput>  
 					<!-- findbugs xml输出路径-->           
 					<findbugsXmlOutputDirectory>target/site</findbugsXmlOutputDirectory>
-					<excludeFilterFile>findbugs-exclude.xml</excludeFilterFile>
+					<!-- <excludeFilterFile>findbugs-exclude.xml</excludeFilterFile> -->
                 </configuration>
             </plugin>
             <plugin>
@@ -530,7 +530,7 @@
 					<findbugsXmlOutput>true</findbugsXmlOutput>  
 					<!-- findbugs xml输出路径-->           
 					<findbugsXmlOutputDirectory>target/site</findbugsXmlOutputDirectory>
-					<excludeFilterFile>findbugs-exclude.xml</excludeFilterFile>
+					<!-- <excludeFilterFile>findbugs-exclude.xml</excludeFilterFile> -->
 				</configuration>
             </plugin>
             <plugin>
