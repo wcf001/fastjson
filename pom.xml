@@ -183,6 +183,7 @@
                     <linkXref>false</linkXref>
                 </configuration>
             </plugin>
+            <!-- </plugin> -->
 			<!-- <plugin> -->
                 <!-- <groupId>org.codehaus.mojo</groupId> -->
                 <!-- <artifactId>findbugs-maven-plugin</artifactId> -->
